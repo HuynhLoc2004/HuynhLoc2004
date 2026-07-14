@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Huỳnh Tấn Lộc</h1>
 
-<!--
-**HuynhLoc2004/HuynhLoc2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer | Spring Boot | ReactJS | PostgreSQL | Docker
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable web applications and exploring AI-powered solutions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Final-year Information Technology Student at Industrial University of Ho Chi Minh City
+- 💼 Full Stack Developer with experience building commercial web applications
+- 🌱 Currently learning **System Design, AI Integration, Docker & BMAD Method**
+- 🚀 Passionate about Spring Boot, ReactJS and scalable architectures
